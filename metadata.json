@@ -1,0 +1,5 @@
+{
+  "name": "Account Book",
+  "description": "A modern, smooth, mobile-only account book for tracking income and expenses. Features auto-updating balances, smart transaction entry with auto-suggestions, and intuitive search and edit functionalities.",
+  "requestFramePermissions": []
+}
